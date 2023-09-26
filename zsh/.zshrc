@@ -106,7 +106,7 @@ prompt_context() {
 }
 
 prompt_context() {
-  prompt_segment black default "Sjoleee 🐶 "
+  prompt_segment black default "ThisIsAsh 🐶 "
 }
 
 export NVM_DIR="$HOME/.nvm"
